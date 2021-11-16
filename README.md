@@ -1,6 +1,6 @@
 # armor_script_PYTHON
 # Authors:
-#  Craig Ellrod, Joshua Seither
+#  Craig Ellrod
 #
 # Python3
 #
